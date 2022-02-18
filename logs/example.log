@@ -1,0 +1,4 @@
+DEBUG	| 2021-07-20 15:04:38,842	| This message should go to the log file
+INFO	| 2021-07-20 15:04:38,842	| So should this
+WARNING	| 2021-07-20 15:04:38,842	| And this too!
+ERROR	| 2021-07-20 15:04:38,843	| this is just an error - for funsies!
