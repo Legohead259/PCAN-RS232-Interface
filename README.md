@@ -1,6 +1,6 @@
 # PCAN UI
 
-PCAN UI is an application built to add a user interface to the PS-RS-232 device and add a Python library to integrate it with other embedded applications
+PCAN UI is an application built to add a user interface to the [PCAN-RS-232](https://www.peak-system.com/PCAN-RS-232.287.0.html?&L=1) device and add a Python library to integrate it with other embedded applications
 
 Version: 0.1.0
 
@@ -49,7 +49,7 @@ EEPROM  | Save settings to non-volatile storage
 
 ### CAN Message Terminal
 
-By default, PCAN UI will open and enable the defualt settings on the UI and on the PCAN device. When the OPEN button is selected, any CAN messages received by the PCAN will automatically display in the central terminal in the following formats:
+By default, PCAN UI will open and enable the default settings on the UI and on the PCAN device. When the OPEN button is selected, any CAN messages received by the PCAN will automatically display in the central terminal in the following formats:
 * tXXXYZZ...
 * TXXXXXXXXYZZ...
 * rXXXY
